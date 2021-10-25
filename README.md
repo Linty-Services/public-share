@@ -1,1 +1,1 @@
-# Repository to share Linty public artifacts
+# Public Releases of Linty Products
